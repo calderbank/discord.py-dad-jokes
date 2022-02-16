@@ -5,3 +5,7 @@ A nice addon to a Discord bot, first originated in M8Bot (Dead Project)
 DM calders #7343 if you have any issues.
 
 Installation is as easy as it gets.
+
+How does it work? 
+Gets a request from: https://icanhazdadjoke.com/
+Sends joke into Discord channel.
